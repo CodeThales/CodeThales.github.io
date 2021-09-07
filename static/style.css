@@ -6,6 +6,9 @@ body{
   font-family: 'Poppins', sans-serif;
   color: #ffffff;
 }
+body a{
+  text-decoration: none;
+}
 
 .header-container{
   height: 100vh;
