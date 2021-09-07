@@ -4,16 +4,16 @@ body{
   margin: 0;
   padding: 0;
   font-family: 'Poppins', sans-serif;
-  color: #1E1E2A;
+  color: #ffffff;
 }
 
 .header-container{
   height: 100vh;
   width: 100vw;
-  background-color: #60e1e0;
-  background-image: url('./images/Profile.png');
+  background-color: #000000;
+  background-image : url('./images/Profile.png');
   background-repeat: no-repeat;
-  background-position: center;
+  background-position: right;
   background-size: contain;
   display: flex;
   flex-direction: column;
@@ -42,7 +42,7 @@ h2{
 
 .social-media a {
   text-decoration: none;
-  color: #1E1E2A;
+  color: #9393f0;
   padding: 1rem 4rem;
   border: 1px solid #1E1E2A;
   min-width: 4rem;
@@ -78,7 +78,7 @@ a:hover{
 .checkbox .trace{
   width: 50px;
   height: 2px;
-  background-color: #1E1E2A;
+  background-color: #9393f0;
   position: absolute;
   border-radius: 4px;
   transition: 0.5s ease-in-out;
@@ -137,7 +137,7 @@ a:hover{
 
 .menu-items ul li a{
   margin: 10px 0;
-  color: #1E1E2A;
+  color: #000000;
   text-decoration: none;
   text-transform: uppercase;
   letter-spacing: 4px;
@@ -199,13 +199,13 @@ a:hover{
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: #60e1e0;
+  background-color: yellow;
   background-image: url('./images/Profile.png');
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
-  filter: grayscale(.5);
-  color: #1E1E2A;
+  filter: grayscale(1);
+  color: #ffffff;
   cursor: pointer;
   transition: 0.5s ease-in-out;
 }
@@ -213,7 +213,7 @@ a:hover{
 .card-text{
   width: 40%;
   letter-spacing: 1px;
-  color: rgb(109,109,109);
+  color: rgb(0, 0, 0);
 }
 
 .card-wrapper{
@@ -273,9 +273,10 @@ a:hover{
 .footer{
   width: 100%;
   height: 100px;
-  background-color: #60e1e0;
+  background-color: #000000;
   display: flex;
   align-items: center;
-  justify-content: center;
-  color: #1E1E2A;
+  justify-content: center;  
+  color: #ffffff;
 }
+

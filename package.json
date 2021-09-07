@@ -1,0 +1,26 @@
+{
+  "name": "codethales.github.io",
+  "version": "1.0.0",
+  "description": "My web portifolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CodeThales/CodeThales.github.io.git"
+  },
+  "keywords": [
+    "portifolio",
+    "codethales"
+  ],
+  "author": "Thales Ribeiro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CodeThales/CodeThales.github.io/issues"
+  },
+  "homepage": "https://github.com/CodeThales/CodeThales.github.io#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
