@@ -222,8 +222,7 @@ a:hover{
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  position: relative;
-  text-decoration: none;
+  position: relative;  
 }
 
 .card-wrapper::before{
@@ -244,6 +243,7 @@ a:hover{
   letter-spacing: 4px;
   margin: 0;
   transition: 0.5s ease-in-out;
+  text-decoration: none;
 }
 
 .card-wrapper p{
