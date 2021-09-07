@@ -280,9 +280,20 @@ a:hover{
   color: #ffffff;
 }
 
-.about{
-  font-size: 16pt;
+.pabout{
+  font-size: 14pt;
   margin-left: 25%; 
-  max-width: 50%;  
+  max-width: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
   color: #000000;  
+}
+
+.habout{
+  font-size: 18pt;  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #000000;
 }
