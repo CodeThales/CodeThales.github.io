@@ -280,3 +280,9 @@ a:hover{
   color: #ffffff;
 }
 
+.about{
+  font-size: 16pt;
+  margin-left: 25%; 
+  max-width: 50%;  
+  color: #000000;  
+}
