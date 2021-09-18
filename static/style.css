@@ -210,7 +210,7 @@ a:hover{
   background-repeat: no-repeat;
   filter: grayscale(1);
   color: #565695;
-  text-decoration: #565695;
+  text-decoration-color: #ffffff;
   cursor: pointer;
   transition: 0.5s ease-in-out;
 }
