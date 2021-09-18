@@ -209,7 +209,7 @@ a:hover{
   background-size: cover;
   background-repeat: no-repeat;
   filter: grayscale(1);
-  color: #9393f0;
+  color: #565695;
   cursor: pointer;
   transition: 0.5s ease-in-out;
 }
